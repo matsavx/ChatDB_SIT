@@ -1,0 +1,6 @@
+{
+    "name": "root/chatdb",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
